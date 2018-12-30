@@ -1,0 +1,26 @@
+[
+    {
+        "name": "dagger",
+        "damage": 1
+    },
+    {
+        "name": "sword",
+        "damage": 5
+    },
+    {
+        "name": "shiv",
+        "damage": 8
+    },
+    {
+        "name": "insult",
+        "damage": 10
+    },
+    {
+        "name": "gun",
+        "damage": 15
+    },
+    {
+        "name": "rocket launcher",
+        "damage": 100
+    }
+]
